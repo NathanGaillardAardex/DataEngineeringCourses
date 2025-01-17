@@ -108,3 +108,5 @@
 - **Azure Stream Analytics**: Real-time stream processing for ingesting and analyzing live data streams.  
 - **Azure Data Explorer**: High-performance platform for querying log and IoT telemetry data.  
 - **Microsoft Purview**: Enterprise-wide data governance, tracking lineage, and ensuring trustworthy analytical data.  
+
+# [Next](./2-explore-relational-data-in-azure.md)

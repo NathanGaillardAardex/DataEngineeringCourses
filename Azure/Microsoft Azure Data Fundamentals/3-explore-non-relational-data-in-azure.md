@@ -241,3 +241,4 @@ Azure Cosmos DB is a fully managed, globally distributed database that supports 
 
 Azure Cosmos DB’s API flexibility enables developers to leverage familiar tools and paradigms for diverse workloads, ensuring scalability, performance, and reliability.
 
+# [Next](4-explore-data-analytics-in-azure.md)

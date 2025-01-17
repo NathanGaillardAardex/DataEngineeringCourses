@@ -180,3 +180,5 @@ Azure provides managed PaaS implementations for popular relational database syst
 - Minimal administrative overhead for simplified database management.  
 
 Azure Database for MySQL, MariaDB, and PostgreSQL provides robust, scalable, and secure cloud solutions for diverse application requirements.
+
+# [Next](3-explore-non-relational-data-in-azure.md)
